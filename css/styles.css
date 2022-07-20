@@ -1,0 +1,65 @@
+body {
+  background-color: black;
+  background-image: url("bgimg.jpeg");
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather',serif;
+
+}
+h1{
+  font-family: 'Merriweather';
+  font-weight: bold;
+  font-size: 100px;
+  font-size: 3rem;
+  line-height: 1.5;
+  animation-timing-function: ease;
+}
+h2{
+  color:#DAE2B6 ;
+  font-size: 30px;
+  padding-top: 20px;
+
+}
+
+.row{
+  color:white;
+  font-family: 'Sacramento';
+  /*padding-top: 10px;*/
+  background-color: black;
+  margin-top: 50px;
+  /*margin-bottom: 10px;*/
+  font-size: 100px;
+  /*padding-bottom: 10px;*/
+  margin-bottom: 100px;
+
+
+}
+
+
+.logo{
+  max-width:100%;
+  height:auto;
+  transition: .5s ease;
+  backface-visibility: hidden;
+  margin-top: 0;
+
+}
+
+.events{
+  font-size: 30px;
+  color: white;
+  margin-top: 50px;
+  animation-direction: alternate-reverse;
+  background-color: black;
+  margin-bottom: 100px;
+  padding-bottom: 20px;
+}
+
+.bottomcontainer{
+  padding-top: 30px;
+}
+.div2{
+  background-color: black;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
